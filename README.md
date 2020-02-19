@@ -1,15 +1,15 @@
 # Project Title: CR_2020_shinyapp
-<i>Project Status: [Complete]</i></br>
+<i>Project Status: Complete</i></br>
 
 <h3>Project Description</h3>
 <ul>
-  <li>Background: For an evaluation project, this shiny app was created to determine eligibility based on a variety of factors.</li>
-  <li>Aim of the project: This project focused on mapping the geographic coordinates of a variety of facilities, and calculaing the geographic distance (km) between these facilities. </li>
+  <li><i>Background:</i> For an evaluation project, this shiny app was created to determine eligibility based on a variety of factors.</li>
+  <li><i>Aim of the project:</i> This project focused on mapping the geographic coordinates of a variety of facilities, and calculaing the geographic distance (km) between these facilities. </li>
 </ul>
 
 <h3>How does it work?</h3>
 <b>Requirements:</b></br>
-These scripts were written in R version 3.6.2 and RStudio Version 1.2.5033. The following R packages are needed:
+These scripts were written in R version 3.6.2 and RStudio Version 1.2.5033. The following R packages are needed:</br>
 <ul>
   <li> dplyr </li>
   <li> here </li>
@@ -29,5 +29,5 @@ The repo contains:
 
 
 <h3>Authors</h3>
-Ijeamaka Anyene: [Github Account](https://github.com/Ijeamakaanyene/) and [Twitter](https://twitter.com/ijeamaka_a/)
+Ijeamaka Anyene [Github Account](https://github.com/Ijeamakaanyene/) and [Twitter](https://twitter.com/ijeamaka_a/)
 

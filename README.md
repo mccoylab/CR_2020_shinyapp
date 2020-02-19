@@ -29,5 +29,7 @@ The repo contains:
 
 
 <h3>Authors</h3>
-Ijeamaka Anyene [Github Account](https://github.com/Ijeamakaanyene/) and [Twitter](https://twitter.com/ijeamaka_a/)
+Ijeamaka Anyene </br>
+[Github]:https://github.com/Ijeamakaanyene/  </br>
+[Twitter]:https://twitter.com/ijeamaka_a/  </br>
 
